@@ -1,0 +1,62 @@
+/* Simple body styling */
+body {
+    background: #cfcfcf; /* grey background */
+    margin: 0;
+    padding: 40px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+/* Wrapper box for all content */
+.content-box {
+    background: white;
+    width: 80%;
+    max-width: 800px; /* keeps content narrow and readable */
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 20px; /* rounded corners */
+}
+
+/* Main heading */
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 0;
+    color: #2f8f1f; /* green */
+    font-weight: 900;
+}
+
+/* Subtitle under main heading */
+.sub-title {
+    font-size: 40px;
+    text-align: center;
+    color: #2f8f1f;
+    margin-top: 5px;
+}
+
+/* Green section heading */
+.green-heading {
+    color: #2f8f1f;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 60px;
+    font-weight: 900;
+}
+
+/* Green fact box */
+.fact-box {
+    background: #2f8f1f;
+    color: white;
+    padding: 25px;
+    margin: 40px 0;
+    border-radius: 15px;
+}
+
+.fact-box h3 {
+    margin-top: 0;
+    font-size: 30px;
+}
+
+p {
+    font-size: 18px;
+}
